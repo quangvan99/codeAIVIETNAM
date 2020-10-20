@@ -13,3 +13,4 @@ minSphere = GA_algorithm(nGen = 4, rangeOfGen = (0,100), nIndividual=100, nItera
 print("individual optimal = ", minSphere.optimal(funcCall))
 minSphere.showGraphLosses()
 
+

@@ -18,18 +18,21 @@ def softmax(z):
 def cross_entropy(y, predict):
     return -np.log(predict[range(len(y)), y])
 
-class SoftmaxRegresstion:
-    def __init__(self, data, rate, miniBatchSize = None, epochs = 1000):
+class MLP:
+    def __init__(self, data, layers, rate, miniBatchSize = None, epochs = 100):
         data = data[:].copy()
         self.features = data[:, :-1]
         self.y = data[:, -1].astype(np.int64)
         self.rate = rate
         self.epochs = epochs
+        self.layers = layers
         self.nData = len(data)
         self.miniBatchSize = miniBatchSize
-        self.nClass = len(np.unique(self.y))
-        self.w = np.random.randn(self.features.shape[1], self.nClass)
-        self.b = np.random.randn(self.nClass, )
+        self.w = []
+        self.b = []
+        for i in range(len(layers)-1):
+            self.w.append(np.random.randn(layers[i], layers[i+1]))
+            self.b.append(np.random.randn(layers[i+1], ))
         self.losses = []
         self.accuracy = []
                       
@@ -48,12 +51,21 @@ class SoftmaxRegresstion:
             predict = softmax(xFillter.dot(self.w) + self.b)
             self.losses.append(cross_entropy(yFillter, predict).mean())
             self.accuracy.append(np.sum(np.argmax(predict, axis=1) == yFillter))
+            
             loss_grd = predict
             loss_grd[range(self.miniBatchSize), yFillter] -= 1
             loss_grd /= self.miniBatchSize
             
-            self.w -= self.rate * xFillter.T.dot(loss_grd)
-            self.b -= self.rate * np.sum(loss_grd, axis=0)
+            da2 = xFillter*loss_grd
+            da2[x<=0] = 0
+            da2[x>0] = 1
+            dz1 = da2
+            
+            
+            self.w[-1] -= self.rate * xFillter.T.dot(loss_grd)
+            self.b[-1] -= self.rate * np.sum(loss_grd, axis=0)
+            self.w[0] -= self.rate * xFillter.T.dot(loss_grd)
+            self.b[0] -= self.rate * np.sum(loss_grd, axis=0)
             
         def showGraph(self):
             plt.figure(figsize=(10, 6))
@@ -74,7 +86,7 @@ class SoftmaxRegresstion:
             plt.xlim(xx.min(), xx.max())
             plt.ylim(yy.min(), yy.max())
         
-a = SoftmaxRegresstion(data, 0.1)
+a = MLP(data, [2,2,3], 0.1)
 a.run()
 plt.plot(a.accuracy)
 plt.show()

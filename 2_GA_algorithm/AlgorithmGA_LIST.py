@@ -97,7 +97,7 @@ class GA_algorithm():
             sort_population = self.newIndividual(newPopulation)  
             self.losses.append(1/funcCall(sort_population[-1]))
         self.getOptimal = sort_population[-1]
-        return self.getOptimal
+        return funcCall(self.getOptimal)
     #=========================================
     
     # Quan sát đồ thị

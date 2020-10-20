@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a76765f-9890-4f35-8a8d-444ced4d08df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/2_GA_algorithm/AlgorithmGA_LIST.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_GA_algorithm/AlgorithmGA_LIST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_softmax_regresstion/softmaxregresstion.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_softmax_regresstion/softmaxregresstion.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/2_GA_algorithm/GA_minSphere.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JupyterTrust" id="3677c13b-6230-41d0-b06e-c1bf9bc05fa9" />
+  <component name="ProjectId" id="1iGbNAqBPr4oIHVO43LycnP3iTt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.temp">
+    <configuration name="GA_minSphere" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code_AIVIETNAM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_GA_algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_GA_algorithm/GA_minSphere.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Temp2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code_AIVIETNAM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_GA_algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_GA_algorithm/Temp2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="code_AIVIETNAM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code_AIVIETNAM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.Temp2" />
+        <item itemvalue="Python.GA_minSphere" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a76765f-9890-4f35-8a8d-444ced4d08df" name="Default Changelist" comment="" />
+      <created>1601536834921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601536834921</updated>
+      <workItem from="1601536836353" duration="15000" />
+      <workItem from="1602328621887" duration="324000" />
+      <workItem from="1602328970231" duration="76000" />
+      <workItem from="1602329058667" duration="529000" />
+      <workItem from="1602337868536" duration="187000" />
+      <workItem from="1602338126841" duration="352000" />
+      <workItem from="1602338496171" duration="401000" />
+      <workItem from="1602338908011" duration="829000" />
+      <workItem from="1602339976681" duration="1017000" />
+      <workItem from="1602341019099" duration="55000" />
+      <workItem from="1602341083919" duration="707000" />
+      <workItem from="1602341812450" duration="186000" />
+      <workItem from="1602342009028" duration="250000" />
+      <workItem from="1602342273026" duration="2220000" />
+      <workItem from="1602345578393" duration="488000" />
+      <workItem from="1602393211838" duration="2988000" />
+      <workItem from="1602491276752" duration="2070000" />
+      <workItem from="1602584544931" duration="2551000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602339089136">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1602339089136" />
+    <state x="526" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602393216733">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="526" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1602393216733" />
+    <state x="498" y="170" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1602343851244">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="170" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1536.834@0.0.1536.834" timestamp="1602343851244" />
+    <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602337993920">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1602337993920" />
+    <state x="43" y="170" key="#xdebugger.XInspectDialog" timestamp="1602338988805">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="43" y="170" key="#xdebugger.XInspectDialog/0.0.1536.834@0.0.1536.834" timestamp="1602338988805" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1602339291713">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1602339291713" />
+    <state x="473" y="181" key="FileChooserDialogImpl" timestamp="1602343588225">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="473" y="181" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1602343588225" />
+    <state width="1493" height="72" key="GridCell.Tab.0.bottom" timestamp="1602591964017">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="72" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1602591964017" />
+    <state width="1493" height="72" key="GridCell.Tab.0.center" timestamp="1602591964017">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="72" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1602591964017" />
+    <state width="1493" height="72" key="GridCell.Tab.0.left" timestamp="1602591964016">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="72" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1602591964016" />
+    <state width="1493" height="72" key="GridCell.Tab.0.right" timestamp="1602591964017">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="72" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1602591964017" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1602344133735">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1602344133735" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1602344133735">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1602344133735" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1602344133735">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1602344133735" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1602344133735">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1602344133735" />
+    <state x="460" y="138" key="RollbackChangesDialog" timestamp="1602343483545">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="460" y="138" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1602343483545" />
+    <state x="178" y="100" key="SettingsEditor" timestamp="1602588368174">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="100" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1602588368174" />
+    <state x="280" y="122" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1602340727670">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="280" y="122" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1536.834@0.0.1536.834" timestamp="1602340727670" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1602343295906">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1602343295906" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/miniconda3/Lib/site-packages/numpy/__init__.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OpenCV_ipynb$Temp2.coverage" NAME="Temp2 Coverage Results" MODIFIED="1602344436588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_GA_algorithm" />
+    <SUITE FILE_PATH="coverage/OpenCV_ipynb$GA_minSphere.coverage" NAME="GA_minSphere Coverage Results" MODIFIED="1602344483205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_GA_algorithm" />
+  </component>
+</project>
